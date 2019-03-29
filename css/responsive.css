@@ -1,0 +1,43 @@
+/*=========================
+* Medium Layout: 1280px. 
+===========================*/
+@media only screen and (min-width:992px) and (max-width:1200px) {
+  .socal-link {
+    margin-left: 60px;
+}
+.language-logo {
+    padding-top: 8px;
+    margin-right: 46px;
+}
+ul.nav.navbar-nav li a {
+    padding: 8px 8px;
+}
+.logo-img {
+    margin-top: -2px;
+}
+
+
+}
+
+/*=========================
+* Tablet Layout: 768px. 
+===========================*/
+@media only screen and (min-width:768px) and (max-width:991px) {
+  
+
+}
+
+/*=========================
+* Mobile Layout: 320px. 
+===========================*/
+@media only screen and (max-width:767px) {
+  
+
+}
+
+/*===========================
+ * Wide Mobile Layout: 480px. 
+ ============================*/
+@media only screen and (min-width:480px) and (max-width:767px) {
+  
+}
